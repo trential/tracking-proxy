@@ -11,7 +11,7 @@ There are a few ways you can use this repo to deploy a server that can be use to
 3. **copy and paste** the nginx settings to your existing nginx config file
 
 ### Option 1: One-Click Deploy
-click on a button below to deploy to your favorite cloud provider:
+click on a button below to deploy to your favorite cloud provider: 
 
 [![Google Cloud Btn]][Google Cloud Deploy]
 [<img src=https://www.deploytodo.com/do-btn-blue.svg width=198px />][Digital Ocean Deploy]
